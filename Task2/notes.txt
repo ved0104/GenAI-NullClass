@@ -1,0 +1,2 @@
+2. Dataset Augmentation to Improve Colorization Description: Create a model that leverages augmented datasets to enhance the colorization of grayscale photos. Experiment with various augmentation techniques (such as rotation, flipping, and brightness alteration). Guidelines: This work focuses on improving model performance using data augmentation. After training on supplemented data, the model should improve its colorization outcomes. A GUI is not required, but a comparison of before and after outcomes should be provided.
+https://github.com/rohithreddy5250/ImageColorisation
